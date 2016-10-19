@@ -11,3 +11,6 @@ Spring Framework 学习和部分源码解析，转载请注明出处。
 * Spring In Action（第四版）
 * [Spring Reference 4.3.3.RELEASE](http://docs.spring.io/spring/docs/4.3.3.RELEASE/spring-framework-reference/htmlsingle/)
 * [Spring Reference 4.x 中文版](https://github.com/waylau/spring-framework-4-reference/blob/master/SUMMARY.md)
+
+# LICENSE
+This spring study notes is licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE) for the full license text.
